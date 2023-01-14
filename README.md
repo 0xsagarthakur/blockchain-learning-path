@@ -10,11 +10,13 @@ with:
 
 - Public key cryptography
   1. Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
+  2. Read [What is Public-key Cryptography?](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography). (Est. time: 4 minutes)
 - Digital signatures
   1. Read [Cryptography Digital Signitures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm). (Est. time: 10 minutes)
   2. Watch [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
 - Cryptographic hashing
   1. Watch [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70) (Est. time: 5 minutes)
+  2. Read [What is Hashing in Blockchain?](https://learn.bybit.com/blockchain/what-is-hashing-in-blockchain/). (Est. time: 9 minutes)
 
 ## Blockchain
 
@@ -37,6 +39,7 @@ with:
 3. Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
 5. Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+6. Set of learning resources from [ethereum.org](https://ethereum.org/en/learn/)
 
 #### Practice
 
@@ -64,9 +67,10 @@ with:
 6. [Gas](https://ethgas.io/) (Est. time: 5 minutes)
 7. [Weth](https://weth.io/)
 8. Decentralized Finance (DeFi):
+   - [Intro to DeFi](https://ethereum.org/en/defi/) - Introduction to DeFi and its main ideas.
    - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
    - [DeFi Prime](https://defiprime.com) - Curated directory of DeFi projects.
-
+9. [Smart Contracts](https://www.investopedia.com/terms/s/smart-contracts.asp)
 ## Under the hood
 
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
@@ -89,7 +93,11 @@ with:
 
 ## Ethereum vs. Bitcoin
 
-- [Some key differences between Bitcoin and Ethereum](https://vimba.co/blog/post/bitcoin-vs-ethereum) - Features and differences between Bitcoin and Ethereum.
+- [Some key differences between Bitcoin and Ethereum](https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp) - Features and differences between Bitcoin and Ethereum.
+
+## Substrate
+
+- [Initiate a Forkless Runtime Upgrade](https://docs.substrate.io/tutorials/v3/forkless-upgrades#schedule-an-upgrade) - Forkless Runtime Upgrade useful for initial setups and parachains' CI/CD pipelines.
 
 ## Smart Contract Standards
 
@@ -143,3 +151,7 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 #### Talks
 
 - [Understanding Blockchain function](https://www.youtube.com/watch?v=RplnSVTzvnU) - Say hello to the decentralized economy. (Est. time: 15 minutes)
+
+#### Videos
+
+- [DeFi from Finematics](https://www.youtube.com/c/Finematics/videos) - Educational videos on DeFi (Decentralized Finance).
